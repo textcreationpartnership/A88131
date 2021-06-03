@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The life and death of Philip Herbert, the late infamous knight of Barkshire, once Earle of Pembrock, Moungomerie, &amp;c. who departed from this life to another January 23. 1649. Having, by a degenerate basenesse, betrayed his nobilitie; and entred himselfe a commoner, amongst the vere scum of the kingdom. Likewise a discourse with Charon in his voyage to Hell. With his araignement, tryall and condemnation, before the three judges, Æacus, Minos and Raddamanthus. Also the entertainment and welcome made by his brethren, Pym, Dorislaus, Raynsborough, &amp;c. with an ample testimonie of their rejoycing at his Lordships arivall.</title>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88131</idno><idno type="EEBO-CITATION">99862979</idno>
+  <idno type="VID">165524</idno>
+  <idno type="EEBO-PROQUEST">2248546294</idno>
+  
+            <idno type="STC">Wing L2007</idno>
+            <idno type="STC">Thomason E592_1</idno>
+            <idno type="STC">ESTC R202808</idno>
+            <idno type="PROQUEST">99862979</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862979e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88131)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165524)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 91:E592[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The life and death of Philip Herbert, the late infamous knight of Barkshire, once Earle of Pembrock, Moungomerie, &amp;c. who departed from this life to another January 23. 1649. Having, by a degenerate basenesse, betrayed his nobilitie; and entred himselfe a commoner, amongst the vere scum of the kingdom. Likewise a discourse with Charon in his voyage to Hell. With his araignement, tryall and condemnation, before the three judges, Æacus, Minos and Raddamanthus. Also the entertainment and welcome made by his brethren, Pym, Dorislaus, Raynsborough, &amp;c. with an ample testimonie of their rejoycing at his Lordships arivall.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the first yeere of Phil. Harbert's infernall-captivity, and (I hope) the last of state-tyranny. [1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Drama, in verse.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Herbert died in 1650.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "Feb. 4th 1649".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Pembroke, Philip Herbert, --  Earl of, 1584-1650.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165524:1"/>
+            <p>THE Life and Death of PHILIP HERBERT, the late Infamous Knight of <hi>Barkshire,</hi> once Earle of <hi>Pem<g ref="char:EOLhyphen"/>brock, Moungomerie, &amp;c.</hi> who departed from this Life to another <hi>January</hi> 23. 1640. Having, by a De<g ref="char:EOLhyphen"/>generate basenesse, betrayed his Nobilitie; and entred himselfe a <hi>Commoner,</hi> amongst the vere Scum of the Kingdom.</p>
+            <p>LIKEWISE A Discourse with <hi>Charon</hi> in his Voyage to <hi>Hell.</hi>
+            </p>
+            <p>WITH <hi>His Araignement, Tryall and Condemnation, before the three Judges,</hi> Aeacus, Minos <hi>and</hi> Raddamanthus.</p>
+            <p>
+               <hi>Also the Entertainment and Welcome made by his Brethren,</hi> Pym, Dorislaus, Rayns<g ref="char:EOLhyphen"/>borough, <hi>&amp;c. with an ample testimonie of their Rejoycing at his Lordships Arivall.</hi>
+            </p>
+            <p>PRINTED In the first yeere of PHIL. HARBERT'S <hi>Infernall-Cap<g ref="char:EOLhyphen"/>tivity,</hi> and (I hope) the last of <hi>State-Tyranny.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:165524:2"/>
+            <l>TO Speake his life, it is below my Quill,</l>
+            <l>Nor can I think what his deserts, so ill,</l>
+            <l>Have merrited: but this, the trump of Fame,</l>
+            <l>Doth eccho forth, to him, eternall shame:</l>
+            <l>Each Babe and Suckling breathing out, that he</l>
+            <l>Hath left behind, Miriads of Infamie:</l>
+            <l>Posterity may curse the house, and name,</l>
+            <l>From whence so lewd a Member ever came.</l>
+            <l>If Treason had beene set aside, I might</l>
+            <l>Have writ him here an Earle▪ and not a Knight:</l>
+            <l>But, 't seems, his scorns were on the Earl so thrown;</l>
+            <l>His Honour's in the Dust; hee Knight alone</l>
+            <l>Could write, nor will I more</l>
+            <l>Ascribe unto him; though an Earle before</l>
+            <l>He was; High-Treason brought his Lordship down,</l>
+            <l>And made his Honour tumble with the Crown:</l>
+            <l>Nor had hee more of Honour, when hee dy'd,</l>
+            <l>Then in his life of Virtue could bee spy'd;</l>
+            <l>Which was so meane, that few, or none, will strive</l>
+            <l>By Panyg'ricks to keepe the Foole alive;</l>
+            <l>But since hee 's dead wee'll rather let him lye</l>
+            <l>In 's Grave a Traytor, as hee chose to dye;</l>
+            <l>So would I too, but this indeede I feare,</l>
+            <l>Infernall furies would 's Sepulchre teare</l>
+            <l>If men should bee so barren as to leave</l>
+            <l>So base a Traytor quiet in his Grave;</l>
+            <l>Therefore looke on the life which erst hee led,</l>
+            <l>A Servant to our King; hee dayly fed</l>
+            <l>Upon our Soveraignes bread, and might command</l>
+            <l>Well nigh what e're hee pleas'd, by Sea or Land:</l>
+            <l>The King so well did love him, that hee made</l>
+            <l>Him Court-Comptroler; yet hee <hi>Judas</hi> play'd,</l>
+            <l>And did betray his Master, by whose grace</l>
+            <l>Hee had his Titles, and enjoy'd his Place.</l>
+            <l>At first when Treason did begin to rage</l>
+            <l>Hee boldly entred on the Publique Stage:</l>
+            <l>Hee left his Royall Master, and did seeke</l>
+            <l>The rageing-<hi>Jewes,</hi> the Lamb betray so meeke:</l>
+            <l>No stratagem that e're his silly pate</l>
+            <l>Could hatch, but hee imploy'd it for the State:</l>
+            <pb facs="tcp:165524:2"/>
+            <l>When Lords had power, and did ith' Senate sit,</l>
+            <l>Yauling amongst the rest hee Lorded it;</l>
+            <l>But when hee found their pow'r fade and decay</l>
+            <l>Hee strove to bee the Commons Foole, and play</l>
+            <l>A Tragick part amongst those treach'rous Knaves</l>
+            <l>Who spil't their Soveraign's Blood, made 's Subjects Slaves:</l>
+            <l>Hee rather with a <hi>Tanner</hi> would compare,<note place="margin">The <hi>Tanner</hi> might have had the place of Knight of <hi>Bark<g ref="char:EOLunhyphen"/>shire</hi> if he would have opposed.</note>
+            </l>
+            <l>Then in Rebellion not possesse a share;</l>
+            <l>Which having got, I think hee did not spare</l>
+            <l>Against both King and Cavalieres to sweare;</l>
+            <l>Cursing and daming, that not one should be</l>
+            <l>Left, but extirpated: His Tyrannie</l>
+            <l>So farre exceeded, that no Traytor there</l>
+            <l>But was asham'd such vi'lent words to heare;</l>
+            <l>This was his fatall day in which his vote</l>
+            <l>(Which of 't <hi>God-dam-him</hi> pass'd his bauling thoat)</l>
+            <l>Against those Loyall stemmes, who doe gain-say</l>
+            <l>To bow their knees to <hi>Baall,</hi> and obey</l>
+            <l>This Idoll <hi>Juncto</hi> and Rebellious State,</l>
+            <l>Whose damned Treasons Loyaltie must hate.</l>
+            <l>No sooner had this wasp shot out his sting</l>
+            <l>To kill both Cavaliere and Murther King;</l>
+            <l>But then his sinnes being ripe, hee had a Summons</l>
+            <l>To come to Hell amongst his brethren Commons;</l>
+            <l>And falling sick in a most dreadfull guise</l>
+            <l>With Swearing, Cursing, and with Blasphemies;</l>
+            <l>D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>stractedly still calling out, the King,</l>
+            <l>The King! ô take him hence, or else hee'le bring</l>
+            <l>Me to my Grave! see where Hee stands!</l>
+            <l>This was his Death-Bed posture with his hands;</l>
+            <l>Beating and swearing till hee could not speake,</l>
+            <l>And then lay staring till grim Death did breake</l>
+            <l>His heart-strings, and from out this World</l>
+            <l>To <hi>Pim</hi> and <hi>Dorislaus</hi> his Knightship hurl'd,</l>
+            <l>Where now amongst Hells furies hee's bewayling</l>
+            <l>His former sinne, transgression, and his fayling.</l>
+         </div>
+         <div type="poem">
+            <head>PPILIP HERBERT'S <hi>Epitaph.</hi>
+            </head>
+            <l>HE lies the Mirrour of our Age for Treason,</l>
+            <l>Who in his Life was void of Sence &amp; Reason;</l>
+            <l>The Commons-Foole, a Knave in every thing;</l>
+            <l>A Traytor to his Master, Lord and King;</l>
+            <pb facs="tcp:165524:3"/>
+            <l>A man whose virtues were to Whore and Sweare;</l>
+            <l>God Dam him was his constant daily pray'r.</l>
+         </div>
+         <div type="discourse">
+            <div type="prologue">
+               <head>The Prologue.</head>
+               <l>THE Truth which wee in ancient Authors find,</l>
+               <l>'Tis better <hi>Thirsit</hi>'s sonne with <hi>Hector</hi>'s mind,</l>
+               <l>Then to bee <hi>Hector</hi>'s sonne and <hi>Thirsit</hi>'s like</l>
+               <l>To bee a bauling Coward and to strike,</l>
+               <l>Not daring, but degenerate from his birth,</l>
+               <l>Damne, Sweare and Rayle, not valluing breach of faith;</l>
+               <l>Such was the late <hi>Phil. Harbert</hi> who away</l>
+               <l>From 's Fathers Worth and Loyaltie did stray,</l>
+               <l>And shew'd himselfe a <hi>Thirsit</hi> in degree;</l>
+               <l>Nay, farre more base then <hi>Thirsit</hi>'s e're could bee:</l>
+               <l>But I will leave to pourtraict him, and tell</l>
+               <l>His Voyage, Tryall, and his State in Hell.</l>
+            </div>
+            <div type="discourse_proper">
+               <head>A Discourse between <hi>Philip Herbert</hi> and <hi>Charon,</hi> at the River of <hi>Acheron,</hi> and in his Voyage to the Port of <hi>Hell.</hi>
+               </head>
+               <stage>
+                  <hi>Enter</hi> Philip Herbert, <hi>at the side of</hi> Acheron, <hi>calling</hi> Charon.</stage>
+               <sp>
+                  <speaker>Philip.</speaker>
+                  <l>SO Ho, so ho! Zbood Come <hi>Charon,</hi> come a<g ref="char:EOLhyphen"/>way, delay me not,</l>
+                  <l>I haste to bee at the Port, where I</l>
+                  <l>May keep my brother-Rebells company.</l>
+               </sp>
+               <sp>
+                  <speaker>Charon.</speaker>
+                  <p>Feare not, brave Champion, thou shalt have no delay; my Boat 's both rig'd and trim'd, Ile quickly waft thee.</p>
+               </sp>
+               <sp>
+                  <speaker>Ph.</speaker>
+                  <p>O come prithee, Dam mee, the time passeth away very swift; Let mee not lose this Tyde.</p>
+               </sp>
+               <sp>
+                  <speaker>Cha.</speaker>
+                  <p>Ile not neglect thee, No, without all doubt, thou wilt find the time long enough,
+<q>
+                        <l>'Tis to Eternity, when once th 'art in</l>
+                        <l>Thou wilt be kept close-Prisoner for thy Sin.</l>
+                     </q>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ph.</speaker>
+                  <p>Eternity! Sin! Zbood what are those? I know them not. Sinke me! Z<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>unds! can a Parliament man commit Sin? No, no sure hee cannot.</p>
+               </sp>
+               <sp>
+                  <speaker>Cha,</speaker>
+                  <l>Your Lordship is mistaken in Parliament men,</l>
+                  <l>Who, as the Case now stands</l>
+                  <l>Act, altogether, against God's-Commands.</l>
+               </sp>
+               <sp>
+                  <speaker>Ph.</speaker>
+                  <p>Judge me! Like enough! for I never thought three times of God these eight yeeres,
+<q>
+                        <pb facs="tcp:165524:3"/>
+                        <l>Nor did I ever think there was a need</l>
+                        <l>Remember God, or to repeat my Creed.</l>
+                     </q>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Cha.</speaker>
+                  <l>I know it Sir,</l>
+                  <l>For which, <hi>Hell</hi> is prepar'd and, you must frie</l>
+                  <l>In <hi>Sulphry</hi> flames, for Treas'n &amp; Perjurie.</l>
+               </sp>
+               <sp>
+                  <speaker>Ph.</speaker>
+                  <l>Rot mee, if your sport bee so hot</l>
+                  <l>Ile goe from whence I came, I like it not.</l>
+               </sp>
+               <sp>
+                  <speaker>Cha.</speaker>
+                  <l>No Sir; it is too late to Repent,</l>
+                  <l>I have obey'd your Call</l>
+                  <l>And you must goe; it is in vain at all</l>
+                  <l>T' attempt Escape, I 've Legions at Command,</l>
+                  <l>Who soon will seiz, and bind you foot and hand.</l>
+               </sp>
+               <sp>
+                  <speaker>Ph.</speaker>
+                  <p>A Pox on't, Ile pay thee well if thou wilt let mee Escape and goe back to <hi>Whitehall</hi>
+                     <q>
+                        <l>For Truth I find</l>
+                        <l>That <hi>Hell</hi> will both Torment Body and Mind.</l>
+                     </q>
+                  </p>
+               </sp>
+               <stage>One foote in the Boate he leapt back again on Shoare.</stage>
+               <sp>
+                  <speaker>Cha.</speaker>
+                  <l>'Tis true indeed Sir, and you must</l>
+                  <l>Have your Deserts, your punishment is just;</l>
+                  <l>Then step into the Boat, I cannot stay,</l>
+                  <l>Some other Fare will come, Let's haste away.</l>
+               </sp>
+               <sp>
+                  <speaker>Ph.</speaker>
+                  <p>Zounds, why so hastie? Stay a little; though I was in hast at the first and ran headlong, now (perceiving what I must suf<g ref="char:EOLhyphen"/>fer) I can well spare a little time.</p>
+               </sp>
+               <sp>
+                  <speaker>Cha.</speaker>
+                  <l>Yes, but the time's ore-past and th' Furies houle</l>
+                  <l>To be a gnawing thy Blood-stayned-Soule,</l>
+                  <l>There's no remedy then, nor can I so</l>
+                  <l>Much freedom grant that back again thou goe.</l>
+               </sp>
+               <stage>He leaps into the Boate.</stage>
+               <sp>
+                  <speaker>Ph.</speaker>
+                  <l>A Plague on thee then, Take me to the Devill and spare not,</l>
+                  <l>I hope I shall be Comrade with <hi>Dorislaus.</hi>
+                  </l>
+                  <l>My Misery will be abated, some Reliefe</l>
+                  <l>'T will be to have Co-partners in my Griefe.</l>
+               </sp>
+               <sp>
+                  <speaker>Cha.</speaker>
+                  <p>Wee shall be there quickly Sir, I have no more to doe but only to deliver you over to <hi>Cerberus,</hi>
+                     <q>
+                        <l>Then get of him what Terms you can or may.</l>
+                        <l>You will not long, I'm sure, for Sentence stay.</l>
+                     </q>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ph.</speaker>
+                  <l>
+                     <hi>May!</hi> Zoood What <hi>May</hi> dost thou meane?</l>
+                  <l>If my deere Mistres the Lady <hi>May</hi> be here</l>
+                  <l>To burne in thousand Hells I will not feare.</l>
+               </sp>
+               <sp>
+                  <pb facs="tcp:165524:4"/>
+                  <speaker>Cha.</speaker>
+                  <p>No, no, it is not shee by may I meane; get what freedom you can untill your Arraignment and Triall be past, 'tis that I meane.</p>
+               </sp>
+               <sp>
+                  <speaker>Ph.</speaker>
+                  <l>The Devill take thee! Judge me!</l>
+                  <l>I had strong hopes the Lady <hi>May</hi> had been before</l>
+                  <l>To keep mee Company and bee my Wh—.</l>
+               </sp>
+               <sp>
+                  <speaker>Cha.</speaker>
+                  <p>There are Hounds (and please you Sir plenty) which will barke and baule to purpose when your Lordship comes a little neerer.</p>
+               </sp>
+               <sp>
+                  <speaker>Ph.</speaker>
+                  <p>Dam mee, I like the noyse deerely; I alwaies lov'd Hunt<g ref="char:EOLhyphen"/>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g well: But preethee what stinke of Brimstone and Burning is this?</p>
+                  <q>
+                     <l>Sure 'ts not the constant smell</l>
+                     <l>Which doth arise from the Abysse of Hell.</l>
+                  </q>
+               </sp>
+               <sp>
+                  <speaker>Cha.</speaker>
+                  <l>No my Lord, this is but small to the stink when you are in;</l>
+                  <l>But hold now <hi>Cerberus</hi> barks, wee must leave talking.</l>
+               </sp>
+               <sp>
+                  <speaker>Ph.</speaker>
+                  <p>Sinke mee, there's a D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mn'd noyse indeed; If this bee a Hell-hound I like not the Musick.</p>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Cerberus <hi>opening</hi> Acheruse.</stage>
+               <sp>
+                  <speaker>Cer.</speaker>
+                  <l>O <hi>Charon,</hi> who is there? What hast thou brought?</l>
+                  <l>Is that an English Statesman thou hast caught?</l>
+               </sp>
+               <sp>
+                  <speaker>Cha.</speaker>
+                  <p>I hee 's come from <hi>England,</hi> his name was <hi>Pembroke,</hi> one of our chiefe Champions: For Damming, Sinking, Swea<g ref="char:EOLhyphen"/>ring &amp; Cursing, all the Inhabitants of Hell can hardly equal him.</p>
+               </sp>
+               <sp>
+                  <speaker>Cerb.</speaker>
+                  <p>Well then <hi>Charon</hi> on thy report Ile entertain him, If 't bee <hi>Herbert,</hi> I have waited for him these many yeeres.</p>
+                  <q>
+                     <l>Farewell <hi>Charon,</hi> help mee with some more,</l>
+                     <l>I fain would fill my Goale with English Store.</l>
+                  </q>
+               </sp>
+               <sp>
+                  <speaker>Cha.</speaker>
+                  <p>Adieu my Lord.</p>
+               </sp>
+               <sp>
+                  <speaker>Pem.</speaker>
+                  <p>Zblood art thou gone? Farwell and be hang'd.</p>
+               </sp>
+               <sp>
+                  <speaker>Cer,</speaker>
+                  <l>Come, walk with mee, and Ile thy Lordship bring</l>
+                  <l>Where <hi>Judas</hi> is, that first betray'd his King.</l>
+               </sp>
+               <sp>
+                  <speaker>Pem.</speaker>
+                  <p>With all my heart, I 'de fain shake hands with him.</p>
+                  <stage>He draws neere and the Damned houle.</stage>
+                  <p>Dam me! What noyse is this? fough they stinke, is <hi>Atkins</hi> here, or have they beshit themselves? A pox take um they'll Poy<g ref="char:EOLhyphen"/>son mee,
+<q>
+                        <l>I'le not goe amongst them; this place is much too hot,</l>
+                        <l>I'le have a cooler if it can bee got.</l>
+                     </q>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Cer.</speaker>
+                  <l>No such matter Sir,</l>
+                  <l>This was provided for you, and this place</l>
+                  <pb facs="tcp:165524:4"/>
+                  <l>Must bee your lodging, till great <hi>Pluto</hi>'s Grace</l>
+                  <l>Appoint your Triall, which will bee to morrow,</l>
+                  <l>And then your Doom will bee eternall-Sorrow.</l>
+               </sp>
+               <sp>
+                  <speaker>Pem.</speaker>
+                  <p>The Devill grace him, if it must be so, it shall be so; Oh, oh▪ oh! Zblood, Zounds, Dam mee and Sink me!</p>
+                  <q>
+                     <l>Woe, woe, woe, woe, My Pains begin,</l>
+                     <l>I feele the Torment due unto my Sin.</l>
+                  </q>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Pym, Hamden, <hi>two</hi> Hothams, Essex, Raynsborough, Dorislaus, Brookes, Jones. <hi>&amp;c. all houling &amp; wayling.</hi>
+               </stage>
+               <sp>
+                  <speaker>Pem.</speaker>
+                  <p>Zblood whats the matter men, all mad?</p>
+                  <p>The Devill 's in you I think, no better welcome? All weeping and mourning as black as Hell.</p>
+               </sp>
+               <sp>
+                  <speaker>All the Reb.</speaker>
+                  <l>Best welcom we can give to thee 's to tell</l>
+                  <l>Thou must tormented bee with us in Hell.</l>
+               </sp>
+               <sp>
+                  <speaker>Pem,</speaker>
+                  <p>You doe not know that till I have been Tried.</p>
+               </sp>
+               <sp>
+                  <speaker>All.</speaker>
+                  <p>That will bee quickly done.</p>
+               </sp>
+               <sp>
+                  <speaker>Pem.</speaker>
+                  <p>May I chuse Councell?</p>
+               </sp>
+               <sp>
+                  <speaker>All.</speaker>
+                  <p>Yes, yes, You may.</p>
+               </sp>
+               <sp>
+                  <speaker>Pem.</speaker>
+                  <l>
+                     <hi>Dam-me</hi> then, because they know the Lawes,</l>
+                  <l>My Councell shall bee <hi>Pim</hi> and <hi>Dorislaus.</hi>
+                  </l>
+               </sp>
+               <stage>
+                  <hi>The three Judges being set</hi> Gerberus <hi>comes with the black-guard to carry</hi> Pembroke <hi>to the Barre.</hi>
+               </stage>
+               <stage>Enter <hi>Aeachus, Minos</hi> and <hi>Raddamanthus</hi> in Chayres. <hi>Pembrokes</hi> Charge is read.</stage>
+               <sp>
+                  <speaker>Clarke.</speaker>
+                  <p>You <hi>Philip Harbert</hi> once Earle of <hi>Pembroke,</hi> but late one of the Commons of <hi>Westminster,</hi> stand charged of these fol<g ref="char:EOLhyphen"/>lowing Crimes and Inormities: <hi>Perjury, Treason, Murther, Adultery, Blasphemy, Swearing, Cursing, Fornication, Rebellion, Sacriledge, Tyrannie,</hi> with innumerable more of the like nature, as <hi>Drunkenesse, &amp;c.</hi> whether are you guilty or not guilty? what can you say for your selfe, why you should not suffer eternall punishment amongst your brothers, <hi>Pim. Hambden, Brooks. &amp;c.</hi>
+                  </p>
+                  <p>What say you? guilty, or not guilty?</p>
+               </sp>
+               <sp>
+                  <speaker>Pem.</speaker>
+                  <p>
+                     <hi>'Zlood</hi> I cannot plead, will you allow mee Councell?</p>
+               </sp>
+               <sp>
+                  <speaker>Judg.</speaker>
+                  <p>Heer's no Councell, here we are both Judg and Councell; Plead quickly, or wee proceed to Sentence, what say'st thou?</p>
+               </sp>
+               <sp>
+                  <speaker>Pem.</speaker>
+                  <p>
+                     <hi>Judge me: Sink me</hi> I know not what to say more, but that I alwayes did what your spirit of wickednesse prompted. I think I've beene Hells friend indeede.</p>
+                  <q>
+                     <l>Nor can you justly say,</l>
+                     <l>That e're from Sathans Law I turn'd away.</l>
+                  </q>
+               </sp>
+               <sp>
+                  <speaker>Judges.</speaker>
+                  <p>'Tis true, therefore receive thy pay.</p>
+                  <pb facs="tcp:165524:5"/>
+                  <p>
+                     <hi>Raddamanthus</hi> passeth sentence and commits <hi>Pembroke</hi> to <hi>Megaera, Alecto,</hi> and <hi>Tesiphone.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Radda.</speaker>
+                  <p>By the power of <hi>Lucifer</hi> great Prince of this infernall Abysse, &amp;c. you are to take the Soule of <hi>Philip Harbert</hi> priso<g ref="char:EOLhyphen"/>ner at the Barre, and dispose it into <hi>Lethe,</hi> first Carbona doing and broyling him upon the Coales, and then in the coldest Lake tumble him; yet not ceasing, give him boyling lead for drink, with all the greatest tortures that Hell can imagine, thus using your greatest skill in tormenting him, let not his misery cease to eternity, as you tender the displeasure of your chiefe Prince and Ruler.</p>
+                  <stage>The three furies lay hold on him, and hale him head-long into Hell fire.</stage>
+                  <q>
+                     <l>Hee houles and cryes, curses and sweares,</l>
+                     <l>Whil'st his tormentors rayne infernall snares</l>
+                     <l>Upon him, making him to quaffe</l>
+                     <l>Full boules oth' <hi>Stigian-Lake,</hi> whil'st they doe laugh</l>
+                     <l>At his Damnation, and are glad</l>
+                     <l>That in their hands they've got the <hi>dam-me Lad.</hi>
+                     </l>
+                  </q>
+               </sp>
+            </div>
+            <div type="epilogue">
+               <head>The Epilogue.</head>
+               <l>PEMBROCK in Hell, with grievous Sighs and Groanes</l>
+               <l>Doth Eccho forth eternall Woes and Moanes</l>
+               <l>Unto the Furies, and with gummy teares</l>
+               <l>Attempts to penetrate their deafned eares;</l>
+               <l>But, all in vain, they stop not to torment him,</l>
+               <l>It was too late (when once in Hell) Repent him;</l>
+               <l>Nor can hee e're get out, eternally</l>
+               <l>Within those Sulph'ry-flames his Soule must fry;</l>
+               <l>If all our <hi>Regicides</hi> were with him there,</l>
+               <l>Thrice happy, happy, then this <hi>England</hi> were.</l>
+               <list>
+                  <head>The Names of the Actors.</head>
+                  <item>
+                     <hi>Pembrock.</hi>
+                  </item>
+                  <item>
+                     <hi>Charon.</hi>
+                  </item>
+                  <item>
+                     <hi>Cerberus.</hi>
+                  </item>
+                  <item>
+                     <hi>Pym. Hamden, &amp;c.</hi>
+                  </item>
+                  <item>
+                     <hi>The</hi> 3 <hi>Judges.</hi>
+                  </item>
+                  <item>
+                     <hi>The Cleark &amp;</hi> 3 <hi>Furies.</hi>
+                  </item>
+               </list>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
